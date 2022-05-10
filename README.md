@@ -1,4 +1,7 @@
 # CRMIndexedDB
+
+CRM, una herramienta para dar seguimiento a nuestros clientes.
+
 * Html
 * Css
 * Bootstrap
